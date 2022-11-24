@@ -6,6 +6,6 @@
  made in c++
  
  features:
-*grab and drop behaviour
+*grab and drop behaviour.
 *trigger action behaviour.
-*move behaviour
+*move behaviour.
